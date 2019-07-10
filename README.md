@@ -1,1 +1,2 @@
-# Pequeno repo com exemplos de Linq e Lambda
+# Linq e Lambda
+Pequeno repo com exemplos de Linq e Lambda apenas para estudo.

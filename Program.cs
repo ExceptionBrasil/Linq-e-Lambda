@@ -75,6 +75,19 @@ namespace Linq_e_Lambda
                 }
             }
 
+
+            //Counts
+            var query05 = from m in musicas                         
+                          select m;
+
+            var quantidade = query05.Count();
+
+            Console.WriteLine("------------------------------------------------");
+           
+                Console.WriteLine(quantidade);
+           
+
+
             Console.ReadKey();
         }
 
